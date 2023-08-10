@@ -1,7 +1,8 @@
-# Template 
+# Rowan Barker-Clarke Github Hosted Page
+
+## Template 
 <https://tbreuss.github.io/html-boilerplate/>
 
 
 ## License
-
 Licensed under the [MIT License](https://github.com/tbreuss/html-boilerplate/blob/master/LICENSE).
