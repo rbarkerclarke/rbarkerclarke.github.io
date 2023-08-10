@@ -1,4 +1,4 @@
-# Rowan Barker-Clarke Github Hosted Page
+# Rowan Barker-Clarke
 
 ## Template 
 <https://tbreuss.github.io/html-boilerplate/>
