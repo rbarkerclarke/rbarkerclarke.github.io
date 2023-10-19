@@ -3,9 +3,9 @@
 ## Link
 <https://rbarkerclarke.github.io/>
 
-## Template 
+### Template 
 <https://tbreuss.github.io/html-boilerplate/>
 
 
-## License
+### License
 Licensed under the [MIT License](https://github.com/tbreuss/html-boilerplate/blob/master/LICENSE).
